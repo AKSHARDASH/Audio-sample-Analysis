@@ -42,9 +42,3 @@ The entire project report is in the .docx file in this repository . Please Downl
 3. **Perform Analysis**:
     - Run `code.m` for time domain analysis.
   
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out with any questions or suggestions!
